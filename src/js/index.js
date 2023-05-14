@@ -24,9 +24,9 @@ botaoAlterarTema.addEventListener("click", () => {
     body.classList.toggle("modo-escuro");
 
     if (modoEscuroEstaAtivo) {
-        imagemBotaoTrocadeTema.setAttribute("src", "./imagens/sun.png");
+        imagemBotaoTrocadeTema.setAttribute("src", "./src/imagens/sun.png");
     } else {
-            imagemBotaoTrocadeTema.setAttribute("src", "./imagens/moon.png");
+            imagemBotaoTrocadeTema.setAttribute("src", "./src/imagens/moon.png");
         }
     });
 
