@@ -7,7 +7,7 @@
 ![Captura de tela 2023-08-20 223706](https://github.com/Estefanilira/projeto-listagem-pokemon/assets/126111557/19a15e25-6c92-4334-b7f9-47e03867ff3d)
 
 
-Um nos projetos mais desafiadores
+This is a Pokemon listing project, one of the most challenging projects, where we seek to recreate some of the features such as user interaction, scrolling, movie elements and changing the day/night theme. 
 
 ## Tecnologias
 Aqui estão as tecnologias utilizadas neste projeto.
